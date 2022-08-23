@@ -1,0 +1,26 @@
+.conteudo {
+  padding-top: 20px;
+  background-color: white;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 0.52rem;
+  box-shadow: 3px 3px 3px 0px #0000002b;
+}
+
+.nav-interna {
+    background-color: white;
+    border-radius: 0.25rem;
+    box-shadow: 3px 3px 3px #00000040;
+}
+
+.container-nav {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+label{
+  font-weight: 500;
+  font-family: Quicksand;
+}
+
+.fadein{animation:opac 0.2s}@keyframes opac{from{opacity:0} to{opacity:1}}
